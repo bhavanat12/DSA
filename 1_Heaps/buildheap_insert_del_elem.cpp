@@ -90,9 +90,6 @@ int main()
 	// from the front and added at the last. the length of the
 	// array is now reduced by one.
 
-	// for(int i=1; i<=n; i++)
-	// 	printf("%d ", nodes[i]);
-	// printf("\n");
 
 	// Heap sort
 	int length = n;
